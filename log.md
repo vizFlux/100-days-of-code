@@ -30,3 +30,11 @@ handleClick() {
 Failed and will try to fix it by tomorrow again.
 
 **Link to work:** [Show Local Weather](http://codepen.io/vizFlux/pen/pyzNmr)
+
+### Day 3: January 16, 2016
+
+**Today's Progress**: Skipped a day for work.
+
+**Thoughts:** Caught up with work, needed to skip a day of code to cope with due date.
+
+**Link to work:** [Show Local Weather](http://codepen.io/vizFlux/pen/pyzNmr)
