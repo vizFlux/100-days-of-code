@@ -38,3 +38,19 @@ Failed and will try to fix it by tomorrow again.
 **Thoughts:** Caught up with work, needed to skip a day of code to cope with due date.
 
 **Link to work:** [Show Local Weather](http://codepen.io/vizFlux/pen/pyzNmr)
+
+### Day 4: January 17, 2016
+
+**Today's Progress**: Setting up a new page on my personal gatsby-powered blog
+
+**Thoughts:** Decided to add a new page on my personal blog [alvisng.me](http://alvisng.me/) to help sharing my #100DaysOfWork log with others.
+
+**Link to work:** [alvisng.me](http://alvisng.me/)
+
+### Day 5: January 18, 2016
+
+**Today's Progress**: Added #100DaysOfCode log to my blog.
+
+**Thoughts:** Decided to add a new page on my personal blog [alvisng.me](http://alvisng.me/) to help sharing my #100DaysOfWork log with others.
+
+**Link to work:** [alvisng.me](http://alvisng.me/)
