@@ -62,3 +62,7 @@ Failed and will try to fix it by tomorrow again.
 **Thoughts:** Achieved better understanding on React's state, and learned to manipulate it to achieve user stories in a more efficient and understandable manner. Proceeding to make things more presentable in the next session.
 
 **Link to work:** [FCC weather app](https://codepen.io/vizFlux/pen/pyzNmr)
+
+### Day 7: January 21, 2017
+
+**Today's Progress**: Skipped a day for work.
