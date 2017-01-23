@@ -66,3 +66,13 @@ Failed and will try to fix it by tomorrow again.
 ### Day 7: January 21, 2017
 
 **Today's Progress**: Skipped a day for work.
+
+### Day 8: January 22, 2017
+
+**Today's Progress**: Skipped a day for work.
+
+### Day 9: Redoing FreeCodeCamp from zero.
+
+**Today's Progress**: Skipped a day for work.
+
+**Thoughts:** I've been inactive in FreeCodeCamp since June 2016, decided to redo the entire program from zero. This decision is made to approach the DONES with a better workaround, meanwhile to develop a stronger foundation in JS.
