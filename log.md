@@ -71,8 +71,16 @@ Failed and will try to fix it by tomorrow again.
 
 **Today's Progress**: Skipped a day for work.
 
-### Day 9: Redoing FreeCodeCamp from zero.
+### Day 9: January 23, 2017
 
-**Today's Progress**: Skipped a day for work.
+**Today's Progress**: Redoing FreeCodeCamp from zero.
 
 **Thoughts:** I've been inactive in FreeCodeCamp since June 2016, decided to redo the entire program from zero. This decision is made to approach the DONES with a better workaround, meanwhile to develop a stronger foundation in JS.
+
+### Day 10: January 23, 2017
+
+**Today's Progress**: Completed 12 challenges in "Basic Javascript"
+
+**Thoughts:** I've been inactive in FreeCodeCamp since June 2016, decided to redo the entire program from zero. This decision is made to approach the DONES with a better workaround, meanwhile to develop a stronger foundation in JS.
+
+**Link to workd:** [FCC Basic JS](https://www.freecodecamp.com/vizflux)
