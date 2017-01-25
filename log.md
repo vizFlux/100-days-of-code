@@ -77,10 +77,18 @@ Failed and will try to fix it by tomorrow again.
 
 **Thoughts:** I've been inactive in FreeCodeCamp since June 2016, decided to redo the entire program from zero. This decision is made to approach the DONES with a better workaround, meanwhile to develop a stronger foundation in JS.
 
-### Day 10: January 23, 2017
+### Day 10: January 24, 2017
 
 **Today's Progress**: Completed 12 challenges in "Basic Javascript"
 
 **Thoughts:** I've been inactive in FreeCodeCamp since June 2016, decided to redo the entire program from zero. This decision is made to approach the DONES with a better workaround, meanwhile to develop a stronger foundation in JS.
+
+**Link to workd:** [FCC Basic JS](https://www.freecodecamp.com/vizflux)
+
+### Day 11: January 25, 2017
+
+**Today's Progress**: Completed 12 challenges in "Basic JavaScript"
+
+**Thoughts:** Revised on `.push()`, `.pop()`, `.shift()`, `.unshift()`. Programming is like workout, you need to practice it regularly to reach beyond what you were capable of yesterday.
 
 **Link to workd:** [FCC Basic JS](https://www.freecodecamp.com/vizflux)
