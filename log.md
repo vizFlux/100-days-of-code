@@ -92,3 +92,15 @@ Failed and will try to fix it by tomorrow again.
 **Thoughts:** Revised on `.push()`, `.pop()`, `.shift()`, `.unshift()`. Programming is like workout, you need to practice it regularly to reach beyond what you were capable of yesterday.
 
 **Link to workd:** [FCC Basic JS](https://www.freecodecamp.com/vizflux)
+
+### Day 12: January 26, 2017
+
+**Today's Progress**: Skipped for festive preparation.
+
+### Day 13: January 27, 2017
+
+**Today's Progress**: Completed 11 challenges in "Basic Javascript"
+
+**Thoughts:** [Stand In Line](http://bit.ly/2jkrVse), challenged by this particular task, but managed to solve it by going back to basic. It's solved by `.push()` and `.shift()`.
+
+**Link to workd:** [FCC Basic JS](https://www.freecodecamp.com/vizflux)
