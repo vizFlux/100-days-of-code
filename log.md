@@ -104,3 +104,31 @@ Failed and will try to fix it by tomorrow again.
 **Thoughts:** [Stand In Line](http://bit.ly/2jkrVse), challenged by this particular task, but managed to solve it by going back to basic. It's solved by `.push()` and `.shift()`.
 
 **Link to workd:** [FCC Basic JS](https://www.freecodecamp.com/vizflux)
+
+### Day 14: March 21, 2017
+
+**Today's Progress**: Completed 8 challenges in Basic Javascript
+
+### Day 15: March 22, 2017
+
+**Today's Progress**: Completed 3 challenges in Basic Javascript
+
+### Day 16: March 27, 2017
+
+**Today's Progress**: Completed 6 challenges in Basic Javascript
+
+### Day 17: March 30, 2017
+
+**Today's Progress**: Completed 16 challenges in Basic Javascript
+
+### Day 18: April 02, 2017
+
+**Today's Progress**: Completed 6 challenges in Basic Javascript
+
+### Day 19: April 03, 2017
+
+**Today's Progress**: Completed 1 challenges in Basic Javascript
+
+### Day 20: April 04, 2017
+
+**Today's Progress**: Completed 2 challenges in Basic Javascript
